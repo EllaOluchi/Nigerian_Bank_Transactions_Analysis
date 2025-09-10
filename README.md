@@ -6,12 +6,12 @@ Covers Current and Savings accounts, with Debit, Credit, Reversal, and Chargebac
 
 ## Key Insights (Highlights)
 - **7 accounts** carried out transactions in multiple locations, also linked to chargebacks.  
-- **45 accounts (64%)** had chargebacks, worth **9.96% of total transaction value**.  
+- **45 out of 70 accounts (which is 64% of total accounts)** had chargebacks, worth **9.96% of total transaction value**.  
 - High-risk cities due to chargebacks as a result of fraud and unauthorized transactions: **Ibadan, Makurdi, Kaduna, Kano, Owerri, Onitsha**.  
-- **Debit transactions (62.5%)** dominate, with FX purchases concentrated in **Owerri, Kano, Ibadan**.  
-- **Account Maintenance Fee deductions** up to ₦492k suggest fraud/system gaps.  
+- **Debit transactions (62.5% of total transactions)** dominates, with FX purchases concentrated in **Owerri, Kano, Ibadan**.  
+- **Account Maintenance Fee deductions** up to ₦492k suggest fraud or system gaps.  
 - **₦30m reimbursements** for “overcharged fees” — unusually high and suspicious.  
-- **20–26% of transactions** occur **midnight–5 AM**, outside banking hours.  
+- **20–26% of transactions** occur **12 AM–5 AM**, outside banking hours.  
 
 
 ## Recommendations (Highlights)
