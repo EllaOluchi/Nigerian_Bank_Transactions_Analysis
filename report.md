@@ -114,4 +114,4 @@ The following accounts carried out transactions in more than one location and ar
 - Flag 12 AM – 5 AM transactions for enhanced monitoring.  
 - Apply **two-factor authentication** for debits, chargebacks, reimbursements, and FX purchases.
 
-  **A sheet on the Excel file contains the full Insights and Recommendatiosn**
+  **A sheet on the Excel file contains the full Insights and Recommendations**
