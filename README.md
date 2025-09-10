@@ -1,5 +1,5 @@
 ## Project Objective  
-To review **banking transactions** across current and savings accounts in Nigeria (**2024**), with a focus on chargebacks, debit/credit anomalies, and suspicious transaction timing, in order to uncover fraud risk and possible system control weaknesses.  
+The aim of this project is to review **a Nigerian Bank's transactions** across current and savings accounts in Nigeria (**2024**), with a focus on chargebacks, debit/credit anomalies, and suspicious transaction timing, in order to uncover fraud risk and possible system control weaknesses.  
 
 **Focus Areas:**  
 - Identifying accounts with multi-location activity and high chargeback rates.  
@@ -11,7 +11,7 @@ To review **banking transactions** across current and savings accounts in Nigeri
 **In essence:** Uncovering fraud-prone accounts, unusual bank charges, and weak system controls.
 
 
-# Bank Transaction Fraud Analysis (70 Accounts, 2024)
+# Bank Transactions Analysis (70 Accounts, 2024)
 
 ## Overview
 This project analyzes **2,500 transactions** across **70 accounts** in Nigeria, totaling **₦607.7 million** for **2024**.  
