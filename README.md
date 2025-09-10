@@ -1,3 +1,16 @@
+## Project Objective  
+To review **banking transactions** across current and savings accounts in Nigeria (**2024**), with a focus on chargebacks, debit/credit anomalies, and suspicious transaction timing, in order to uncover fraud risk and possible system control weaknesses.  
+
+**Focus Areas:**  
+- Identifying accounts with multi-location activity and high chargeback rates.  
+- Analyzing chargeback hotspots by city.  
+- Reviewing unusual fees and reimbursements (possible insider fraud).  
+- Detecting off-hours (midnight to early morning) suspicious transactions.  
+- Understanding monthly and seasonal transaction cycles.  
+
+**In essence:** Uncovering fraud-prone accounts, unusual bank charges, and weak system controls.
+
+
 # Bank Transaction Fraud Analysis (70 Accounts, 2024)
 
 ## Overview
@@ -16,7 +29,7 @@ Covers Current and Savings accounts, with Debit, Credit, Reversal, and Chargebac
 
 ## Recommendations (Highlights)
 - Investigate **multi-location accounts** with high chargeback rates.  
-- Focus reviews on **Ibadan, Makurdi, Kaduna, Kano, Owerri, Onitsha**.  
+- Focus reviews on **Ibadan, Makurdi, Kaduna, Kano, Owerri, Onitsha** as they are linked to the highest cases of chargebacks as a result of unauthorized transactions and fraudulent activity.  
 - Conduct forensic audit of **maintenance fee deductions** above standard.  
 - Review suspicious **₦30m reimbursements** — verify legitimacy.  
 - Flag & monitor all **12 AM–5 AM** transactions with extra security checks.  
